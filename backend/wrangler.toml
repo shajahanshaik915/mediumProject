@@ -2,8 +2,8 @@ name = "latest-project"
 compatibility_date = "2023-12-01"
 
 [vars]
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNTQxY2FiMjUtNTUxOC00ZmM4LWE0NDItZWQxMjJhMTZkNWI3IiwidGVuYW50X2lkIjoiMDQxZWNiMjQyMTdkMmQ1YTA1NzhmNzI5MzkwNDY2YTNlZTNlYjMyMzk4YzliODFkYWM3MzA3ODM1MzQ5NDZkYiIsImludGVybmFsX3NlY3JldCI6Ijk4ZDNkNmNkLThjODgtNGQ1MC1iNWNkLTZlMTAyMThhOTNjNCJ9.7z8kyfD1-N3v5rFZlwoWFclu6edfo595KooKyN6cq5U"
-SECRET_KEY="secretkey"
+DATABASE_URL=""
+SECRET_KEY=""
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
