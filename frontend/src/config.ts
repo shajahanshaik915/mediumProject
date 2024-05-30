@@ -1,0 +1,1 @@
+export const DATABASE_URL='https://latest-project.skshajshajahan-35.workers.dev'

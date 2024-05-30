@@ -27,8 +27,8 @@ const prisma = new PrismaClient({
 }).$extends(withAccelerate())
 
 try{
+    console.log(body);
     const user=await prisma.user.create({
-    //we havent createed zod for validation check.... 
     data:{
         username : body.username,
         password : body.password,
