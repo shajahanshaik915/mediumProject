@@ -37,7 +37,7 @@ export const FullBlog=({blog}:{blog:Blog})=>{
                         </div>
 
                         <div className="text-slate-500">
-                            At one stage in the IPL final when his bowlers were ransacking Sun Risers Hyderabad, Kolkata Knight Riders mentor Gautam Gambhir,
+                                Amet porttitor eget dolor morbi non arcu risus quis varius. Enim tortor at auctor urna nunc id cursus metus aliquam.
                         </div>
                     </div>
                 </div>
