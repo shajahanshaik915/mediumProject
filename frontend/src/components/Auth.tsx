@@ -20,7 +20,7 @@ export const Auth=({type}:{type:"signup"|"signin"})=>{
             navigate('/blogs')
         }catch(e){
             //give some warning to user/....
-            alert("Error While Signin Up")
+            alert("Username Already Taken")
         }
     }
     return <div className="flex justify-center min-h-screen">
